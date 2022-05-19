@@ -1,0 +1,26 @@
+﻿  CApp.cpp
+  CApp_OnCleanup.cpp
+  CApp_OnEvent.cpp
+  CApp_OnInit.cpp
+C:\Users\wesle\Downloads\Lab6_Li,ChungHao\Lab6_Li,ChungHao\CApp_OnInit.cpp(54,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\wesle\Downloads\Lab6_Li,ChungHao\Lab6_Li,ChungHao\CApp_OnInit.cpp(64,34): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\wesle\Downloads\Lab6_Li,ChungHao\Lab6_Li,ChungHao\CApp_OnInit.cpp(65,30): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\wesle\Downloads\Lab6_Li,ChungHao\Lab6_Li,ChungHao\CApp_OnInit.cpp(74,34): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\wesle\Downloads\Lab6_Li,ChungHao\Lab6_Li,ChungHao\CApp_OnInit.cpp(84,34): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\wesle\Downloads\Lab6_Li,ChungHao\Lab6_Li,ChungHao\CApp_OnInit.cpp(94,46): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\wesle\Downloads\Lab6_Li,ChungHao\Lab6_Li,ChungHao\CApp_OnInit.cpp(102,46): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\wesle\Downloads\Lab6_Li,ChungHao\Lab6_Li,ChungHao\CApp_OnInit.cpp(110,46): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\wesle\Downloads\Lab6_Li,ChungHao\Lab6_Li,ChungHao\CApp_OnInit.cpp(119,46): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\wesle\Downloads\Lab6_Li,ChungHao\Lab6_Li,ChungHao\CApp_OnInit.cpp(132,28): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  CApp_OnLoop.cpp
+  CApp_OnRender.cpp
+  CPlayer.cpp
+C:\Users\wesle\Downloads\Lab6_Li,ChungHao\Lab6_Li,ChungHao\CPlayer.cpp(121,17): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\wesle\Downloads\Lab6_Li,ChungHao\Lab6_Li,ChungHao\CPlayer.cpp(145,17): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\wesle\Downloads\Lab6_Li,ChungHao\Lab6_Li,ChungHao\CPlayer.cpp(167,17): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\wesle\Downloads\Lab6_Li,ChungHao\Lab6_Li,ChungHao\CPlayer.cpp(211,16): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\wesle\Downloads\Lab6_Li,ChungHao\Lab6_Li,ChungHao\CPlayer.cpp(218,21): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  CScroll_Player.cpp
+  CSpriteSheet.cpp
+  Generating Code...
+  Lab5-Part4.vcxproj -> C:\Users\wesle\Downloads\Lab6_Li,ChungHao\Lab6_Li,ChungHao\Debug\Lab5-Part4.exe
